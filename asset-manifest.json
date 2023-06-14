@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Final_CapStone/static/css/main.128bb7d4.css",
+    "main.js": "/Final_CapStone/static/js/main.f3a260e7.js",
+    "index.html": "/Final_CapStone/index.html",
+    "main.128bb7d4.css.map": "/Final_CapStone/static/css/main.128bb7d4.css.map",
+    "main.f3a260e7.js.map": "/Final_CapStone/static/js/main.f3a260e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.128bb7d4.css",
+    "static/js/main.f3a260e7.js"
+  ]
+}
