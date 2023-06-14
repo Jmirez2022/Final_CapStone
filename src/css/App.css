@@ -1,0 +1,134 @@
+.Header, .Footer {
+    width: 100%;
+  }
+  
+
+  #Header-Links,
+  li {
+    list-style: none;
+    font-size: 20px;
+    display: inline;
+    margin: 20px;
+
+  }
+  
+
+  
+  .App {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-family: "Nunito", sans-serif;
+    background-color: rosybrown;
+  }
+  
+  .RestaurantDisplay {
+
+  }
+  .CardContainer {
+    margin: 20px;
+    padding: 10px;
+  }
+  
+  .FaveMainContainer {
+    width: 80%;
+    max-width: 1335px;
+    margin: 0 auto;
+  }
+  
+  .FavoritesH1 {
+    font-size: 50px;
+    font-weight:;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+  }
+  
+  .Favorites {
+    width: 50%;
+    height: 90%;
+    column-gap: 3%;
+    row-gap: 3%;
+    border: none;
+    padding-left: 30%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    margin: 50px;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+  }
+  
+
+  .ContactH1 {
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    font-size: 60px;
+  }
+  
+  .Contact {
+    display: flex;
+    width: 100%;
+    padding: 300px;
+  }
+  .ContactForm{
+    /* height: 90%; */
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 80px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 2px solid rgb(27, 3, 3);
+    justify-content: space-evenly;
+    background-color: white;
+  }
+  
+  .ContactSubmit {
+    margin-left: 35%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 30%;
+    height: 20%;
+  }
+  
+  .input1 {
+    width: 90%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+  }
+  
+  .Card {
+    border: 2px solid black;
+    width: 60%;
+    height: 70%;
+  }
+  
+  .LoginH1 {
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .loginApp {
+    width: 100%;
+    height: 35%;
+    margin: 125px;
+    border: 2px solid rgb(255, 255, 255);
+    justify-content: space-evenly;
+    background-color: rgb(255, 255, 255);
+  }
+  .login-form {
+    display: flex;
+    flex-direction: column;
+    margin-top: 40px;
+    margin-bottom: 100px;
+    background-color: rgb(255, 255, 255);
+  }
+  

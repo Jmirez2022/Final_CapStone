@@ -1,0 +1,16 @@
+.searchInputs {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .searchInputs, input {
+    width: 90%;
+    padding: 10px;
+    font-size: 18px;
+  }
+  
+  
+  input:focus {
+    outline: none;
+  }
